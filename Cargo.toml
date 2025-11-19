@@ -3,11 +3,11 @@ members = ["core", "tokio", "async", "cli", "cli/tokio", "cli/async"]
 resolver = "2"
 
 [workspace.package]
-version = "0.3.0"
+version = "0.3.1"
 authors = ["K. <kayo@illumium.org>"]
 license = "MIT"
 edition = "2021"
-repository = "https://github.com/katyo/gpiod-rs"
+repository = "https://github.com/Guiglin-legrand/gpiod-rs"
 homepage = "https://github.com/katyo/gpiod-rs"
 
 [workspace.dependencies]
